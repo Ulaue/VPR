@@ -1,0 +1,16 @@
+.button {
+	-fx-text-fill: black;
+	-fx-font-weight: bold;
+    -fx-background-color: #fb3b3b;
+    -fx-background-radius: 7; 
+	-fx-border-color: black;
+	-fx-border-radius: 7;
+    -fx-border-insets: -1;
+    -fx-border-width: 2;   
+}
+.button:hover{
+	-fx-text-fill: white;
+    -fx-background-color: firebrick;
+	-fx-cursor: hand;
+	-fx-border-color: black;
+}

@@ -1,0 +1,72 @@
+#main{
+	-fx-background-color: #f1f3ce;
+}
+
+#bottom{
+	-fx-background-color: #1e656d;
+	-fx-min-height:100px;
+	-fx-max-height:100px;
+}
+
+.notification{	
+	-fx-font-size: 15;
+	-fx-pref-width: 150px;
+	-fx-pref-height: 100px;
+	-fx-alignment: center;
+    -fx-border-width: 1px;
+    -fx-border-style: solid;    
+}
+
+#tableViewRecipes{
+	-fx-background-color:#d8cba9;	
+}
+
+.tableColumnRecipes{
+	-fx-background-color:#ddbe83;
+}
+
+#recipePane{
+	-fx-background-color:#1e656d;
+}
+
+.button{
+	-fx-background-color:#29a2cd;
+	-fx-background-radius:0;
+}
+
+.button:hover{
+	-fx-border-width: 2px;
+    -fx-border-style: solid;
+    -fx-border-insets:-2px;
+}
+
+.notification:hover{
+	-fx-font-size: 15;
+	-fx-pref-width: 150px;
+	-fx-pref-height: 100px;
+	-fx-alignment: center;
+    -fx-border-width: 1;
+    -fx-border-style: solid;
+    -fx-background-color: white;
+}
+
+.navigation{
+	-fx-background-color: #1e656d;	
+}
+
+.navigationHeader{
+	-fx-font-style: italic;
+    -fx-font-family: copperplate gothic bold;
+	-fx-text-fill: white;
+	-fx-font-size: 24;
+}
+
+.navigationHeader:hover{
+	-fx-underline: true;
+}
+
+.navigationTitle{
+	-fx-text-fill: white;
+	-fx-font-style: italic;
+    -fx-font-size: 45;
+}

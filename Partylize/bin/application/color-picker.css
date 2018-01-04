@@ -1,0 +1,13 @@
+.color-picker {
+    -fx-color-rect-width: 80px;
+    -fx-color-rect-height: 25px;
+    -fx-color-label-visible: false;
+    -fx-min-width: 150px;
+    -fx-min-height: 25px;
+    -fx-pref-width: 150px;
+    -fx-pref-height: 30px;
+}
+
+.large-rect-picker > .arrow-button {
+    -fx-font-size: 30px;
+}
