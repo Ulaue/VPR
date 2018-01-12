@@ -28,7 +28,7 @@ public class ChatPage
 	 *
 	 * @param chatpartnername
 	 * @return
-	 *
+	 *Halllo i bims der Schulbus
 	 * @editor Daniel Hecker : 28.12.2017
 	 */
 	public static GridPane startChat(Profile chatpartnername)
